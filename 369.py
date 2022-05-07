@@ -1,3 +1,4 @@
+#369게임
 num=list(range(1,31))
 
 for i in num:
